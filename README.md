@@ -8,6 +8,10 @@
 4. Test the query
 5. Perform Update and Delete Tests
 ### Write SQL Queries for Operations
+### Set Up the MySQL Database Connection
+using !pip install mysql-connector-python
+and connecting it to the local machine sql
+
 
 
 ### Set Up the MySQL Database Connection
